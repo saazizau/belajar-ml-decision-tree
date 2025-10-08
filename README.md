@@ -1,2 +1,2 @@
 # belajar-ml-decision-tree
-Bagian dari Belajar Machine Learning
+Bagian dari repositori Belajar Machine Learning: https://github.com/saazizau/belajar-machine-learning
